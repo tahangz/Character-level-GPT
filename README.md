@@ -7,7 +7,6 @@ A hands-on, from-scratch implementation of a character-level Transformer-based l
 * **BigramLanguageModel**: Single-layer Transformer with self-attention
 * **Dataset**: Trained on the Tiny Shakespeare dataset (automatically downloaded)
 * **End-to-end**: Includes training loop, evaluation, and text generation
-* **Lightweight**: Minimal dependencies and \~200 lines of code
 
 ## Requirements
 
