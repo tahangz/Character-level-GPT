@@ -1,6 +1,6 @@
 # Bigram Transformer Language Model (GPT-from-scratch)
 
-A minimal character-level GPT (bigram) implemented from scratch in PyTorch. Inspired by Andrej Karpathy’s nanoGPT example and the original "Attention Is All You Need" paper.
+A hands-on, from-scratch implementation of a character-level Transformer-based language model using only PyTorch. This project demonstrates the core concepts of self-attention and sequence modeling by training a bigram-based GPT on the Tiny Shakespeare dataset. Walk through the complete workflow—from data loading and model definition to training loop, evaluation metrics, and text sampling—to see how transformer architectures generate coherent text at the character level.
 
 ## Features
 
