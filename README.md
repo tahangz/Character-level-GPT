@@ -18,8 +18,8 @@ A minimal character-level GPT (bigram) implemented from scratch in PyTorch. Insp
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/tahangz/Character-level-GPT
+cd Character-level-GPT
 
 # Install dependencies
 pip install torch
